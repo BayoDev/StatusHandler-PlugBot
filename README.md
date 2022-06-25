@@ -9,4 +9,4 @@ Since the status is global for the bot this plugin should only be used in bots t
 ### ```/set-status {status-text}```
 - #### Standard permission: Admin only (Can be changed through the Integration settings of the server)
 
-- #### 
+- #### The status will be displayed as "Playing {status-text}"
